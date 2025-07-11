@@ -1,31 +1,55 @@
-# LauraSaporski
-# 👋 Olá! Eu sou a Laura Saporski
+ Olá! Eu sou a Laura Saporski
 
-Formada em Quality Assurance pela TripleTen (2025)  
-+7 anos de experiência em Recursos Humanos  
-MBA em Treinamento e Desenvolvimento de Pessoas  
-9 projetos práticos desenvolvidos como QA  
-Atualmente atuando com QA e especialista em T&D  
-Inglês avançado  
+É um prazer te ter por aqui! Tenho 27 anos, sou formada em Recursos Humanos e possuo MBA em Treinamento e Desenvolvimento de Pessoas. Trabalhei por mais de 7 anos nessa área, com foco em desenvolvimento de talentos e criação de conteúdos educacionais. Também atuei por 10 anos como professora de inglês, o que me deu fluência no idioma e excelente capacidade de comunicação.
 
- Habilidades & Ferramentas
+Nos últimos anos, descobri minha paixão por tecnologia — mais especificamente pela área de qualidade de software. Em 2025, concluí o Bootcamp de **Quality Assurance (QA)** da TripleTen, onde tive contato prático com ferramentas, metodologias e fluxos reais da área de testes.
 
-Testes manuais e automatizados  
-Análise de bugs e documentação  
-Criação de fluxos e processos de qualidade  
-**Selenium WebDriver**, **Postman**, **JIRA**, **Git & GitHub**, **TestRail**  
-Metodologias ágeis (Scrum e Kanban)
-Automação de testes com JavaScript  
-Testes integrados em CI/CD  
+Durante o curso, desenvolvi 9 projetos completos, passando por:
 
- 
+  Criação de **checklists**, **casos de teste** e **relatórios de bugs**
+  Documentação de testes e **testes manuais em aplicações web**
+  **Testes de API** com Postman
+  Testes de **aplicativos móveis** em emuladores
+  Noções básicas de **banco de dados** e **consultas SQL**
+  Introdução à **automação de testes** e **automação web com Selenium**
 
-Fato divertido
+Essas experiências me permitiram unir minha bagagem em treinamento e desenvolvimento com habilidades técnicas em QA, criando uma combinação única: foco na excelência de produto e na experiência do usuário.
 
-Apaixonada por futebol desde sempre! Torcedora fiel do Barça 💙❤️  
+Tenho familiaridade com ferramentas como **JIRA**, **TestRail**, **Postman**, **Git/GitHub** e **Selenium**, além de estar estudando **JavaScript** e boas práticas de **CI/CD** para integrar testes em pipelines.
 
- Entre em contato
+Além disso, sou apaixonada por futebol e torcedora fiel do Barcelona 💙❤️ e sim, analiso jogos com o mesmo olhar crítico que uso em testes de software.
+
+
+
+Minhas habilidades
+
+- Testes manuais e automação (básico)  
+- Escrita e execução de casos de teste  
+- Testes de API com Postman  
+- Versionamento com Git e GitHub  
+- Noções básicas de banco de dados (SQL)  
+- Metodologias ágeis: Scrum e Kanban  
+
+ Projetos desenvolvidos durante o Bootcamp de QA da TripleTen
+
+| Sprint | Tema | Principais Entregas |
+|--------|------|----------------------|
+| 1 | Primeiros testes manuais | Criação de checklists, casos de teste, relatórios de bugs |
+| 2 | Documentação de testes | Planejamento e escrita de documentação técnica |
+| 3 | Testes Web | Execução de testes manuais em aplicações web |
+| 4 | Testes de API | Validações com Postman |
+| 5 | Aplicativos móveis | Testes funcionais em emuladores |
+| 6 | Banco de dados | Noções básicas de SQL |
+| 7 | Automação de testes | Fundamentos de automação |
+| 8 | Automação Web | Scripts com Selenium |
+| 9 | Projeto final | Integração de tudo que foi aprendido |
+
+
+Sinta-se à vontade para explorar meus projetos aqui no GitHub. Se quiser bater um papo sobre QA, RH ou futebol, me chama! 
+
+
+Entre em contato
 
 Linkedin: https://www.linkedin.com/in/laurasaporski?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-Emails: laaurasaporski@gmail.com/ laaurasiqueira@hotmail.com  
- WhatsApp: (43) 99686-5455
+Emails: laaurasaporski@gmail.com / laaurasiqueira@hotmail.com  
+WhatsApp: (43) 99686-5455
