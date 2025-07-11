@@ -73,7 +73,10 @@ Sinta-se à vontade para explorar meus projetos aqui no GitHub. Se quiser bater 
 
 
 Entre em contato
+📬 Contato
 
-Linkedin: https://www.linkedin.com/in/laurasaporski?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-Emails: laaurasaporski@gmail.com / laaurasiqueira@hotmail.com  
-WhatsApp: (43) 99686-5455
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurasaporski?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+[![Gmail](https://img.shields.io/badge/-laaurasaporski@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laaurasaporski@gmail.com)  
+[![Hotmail](https://img.shields.io/badge/-laaurasiqueira@hotmail.com-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:laaurasiqueira@hotmail.com)  
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543996865455)
