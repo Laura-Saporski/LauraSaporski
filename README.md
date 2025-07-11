@@ -44,6 +44,30 @@ Minhas habilidades
 | 8 | Automação Web | Scripts com Selenium |
 | 9 | Projeto final | Integração de tudo que foi aprendido |
 
+ ⚙️ Minhas Habilidades
+
+👩‍💻 Ferramentas e Tecnologias que uso como QA:
+
+![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=fff&style=for-the-badge)
+![TestRail](https://img.shields.io/badge/-TestRail-009688?style=for-the-badge&logo=tesla&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff&style=for-the-badge)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=for-the-badge)
+![Chrome DevTools](https://img.shields.io/badge/-Chrome%20DevTools-4285F4?logo=googlechrome&logoColor=fff&style=for-the-badge)
+
+---
+
+ 🧑‍🏫 Ferramentas que uso como Especialista em T&D:
+
+![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=fff&style=for-the-badge)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=fff&style=for-the-badge)
+![Notion](https://img.shields.io/badge/-Notion-000?logo=notion&logoColor=fff&style=for-the-badge)
+![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
+![Zoom](https://img.shields.io/badge/-Zoom-2D8CFF?logo=zoom&logoColor=fff&style=for-the-badge)
+
 
 Sinta-se à vontade para explorar meus projetos aqui no GitHub. Se quiser bater um papo sobre QA, RH ou futebol, me chama! 
 
